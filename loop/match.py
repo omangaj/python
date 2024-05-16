@@ -1,3 +1,4 @@
+#Enter two number and choose any arithmetic operation
 a=int(input("Enter value:"))
 b=int(input("Enter value:"))
 print("1.addition")

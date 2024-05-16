@@ -5,14 +5,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="663fc0a4-71cd-4a53-932e-ec0f1aa1a9bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/list/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/odd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list/sum of even.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Pune class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pune class.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/append.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/arr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/extend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/pop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/remove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array/sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/fun_impliment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/fun_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function/practice_fun.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/all sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/check empty.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/delete word.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/remove duplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list/remove.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/set 1/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list/date.py" beforeDir="false" afterPath="$PROJECT_DIR$/list/date.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/age.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/age.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/bmi.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/bmi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/call bill.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/call bill.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/check number.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/check number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/digit sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/digit sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/factor.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/factor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/grade.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/grade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/loop 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/loop 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/loop 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/loop 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loop/match.py" beforeDir="false" afterPath="$PROJECT_DIR$/loop/match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/normal/cel_to_fah.py" beforeDir="false" afterPath="$PROJECT_DIR$/normal/cel_to_fah.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/normal/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/normal/circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/normal/compound_interest.py" beforeDir="false" afterPath="$PROJECT_DIR$/normal/compound_interest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/normal/simple_interest.py" beforeDir="false" afterPath="$PROJECT_DIR$/normal/simple_interest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/normal/sphare.py" beforeDir="false" afterPath="$PROJECT_DIR$/normal/sphare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/normal/swap.py" beforeDir="false" afterPath="$PROJECT_DIR$/normal/swap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/normal/time.py" beforeDir="false" afterPath="$PROJECT_DIR$/normal/time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/string 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/string/string 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/string 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/string/string 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/string 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/string/string 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string/string methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/array/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +102,92 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/PycharmProjects/Pune class/python&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.date">
-    <configuration name="date" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.13">
+    <configuration name="13" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Pune class" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set 1/13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pune class" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set 1/14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pune class" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set 1/15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pune class" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/set 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/set 1/16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="date" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Pune class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,48 +200,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/date.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="digit sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pune class" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/loop" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loop/digit sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pune class" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/even.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,27 +229,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="odd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pune class" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/odd.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="string 1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Pune class" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum of even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pune class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,11 +258,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/string" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list/sum of even.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string/string 3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +273,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.date" />
-        <item itemvalue="Python.sum of even" />
-        <item itemvalue="Python.odd" />
-        <item itemvalue="Python.even" />
-        <item itemvalue="Python.digit sum" />
+        <item itemvalue="Python.string 3" />
+        <item itemvalue="Python.16" />
+        <item itemvalue="Python.15" />
+        <item itemvalue="Python.14" />
       </list>
     </recent_temporary>
   </component>

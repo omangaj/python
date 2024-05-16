@@ -1,3 +1,4 @@
+#Enter height and weight and find its bmi category175
 h=float(input("Enter Height:"))
 w=float(input("Enter weight:"))
 

@@ -1,4 +1,5 @@
-call=int(input("Enter call:"))
+#calculate call bill
+call=int(input("Enter calls:"))
 if call<=100:
     print("bill amount=200")
 elif call>100 and call<=150:

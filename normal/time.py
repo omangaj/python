@@ -1,3 +1,4 @@
+#Enter time in second and convert into hour,minute and second
 seconds = int(input("Enter the seconds = "))
 
 hour = seconds // 3600

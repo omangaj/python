@@ -1,3 +1,4 @@
+#find count of vowels
 s=input("Enter string:")
 print("a=",s.count("a"))
 print("e=",s.count("e"))

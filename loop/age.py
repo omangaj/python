@@ -1,3 +1,4 @@
+#Enter age and find its category
 age=int(input("Enter age:"))
 if age<=12:
     print("Child")

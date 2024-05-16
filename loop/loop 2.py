@@ -1,9 +1,12 @@
-print("even number:")
-for i in range(0,101,2):
+#print n numbers and separate into even and odd
+num=int(input("Enter number:"))
+for i in range(0,num):
     print(i,end=" ")
-print(" ")
-print("odd number")
-for i in range(1,101,2):
+print("\neven number:")
+for i in range(0,num,2):
+    print(i,end=" ")
+print("\nodd number")
+for i in range(1,num,2):
     print(i,end=" ")
 
 
